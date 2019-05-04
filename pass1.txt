@@ -1,0 +1,7 @@
+1		LAC	I
+2		ADD	J
+3		SAC	INTER
+4		LAC	K
+5		ADD	L
+6		MUL	INTER
+7		STP
